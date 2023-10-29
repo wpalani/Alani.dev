@@ -7,6 +7,12 @@ const projects = {
             'url' : "https://noteski.me/"
         },
         {
+            "name" : "Oxford Tax",
+            'desc' : "A WordPress webiste for Oxford Tax, a tax preparation and accounting firm located in Miami, FL.",
+            'tools' : "Design // HTML // CSS // JavaScript // WordPress // Elementor",
+            'url' : "http://oxfordtaxsvc.com/"
+        },
+        {
             "name" : "NoteTap",
             'desc' : "A note taking application, built this project to practice MYSQL and CRUD fundamentals. (please don't SQL inject me)",
             'tools' : "Design // HTML // CSS // JavaScript // PHP // MYSQL",
